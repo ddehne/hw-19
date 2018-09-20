@@ -2,7 +2,9 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ddehne.github.io/react-gh-pages",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-scripts": "^1.1.5"
